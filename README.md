@@ -1,6 +1,6 @@
-Entendendo NodeJS:
+# Entendendo NodeJS:
 
-1 - Verbos http;
-2 - Metodos (Get, Post, Put, Patch, Delete);
-2 - Tipos de Parametros;
-4 - Express Framework;
+1 - Verbos http; </br>
+2 - Metodos (Get, Post, Put, Patch, Delete);</br>
+2 - Tipos de Parametros;</br>
+4 - Express Framework;</br>
